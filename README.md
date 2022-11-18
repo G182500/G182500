@@ -1,4 +1,4 @@
-NEVER GIVE UP
+NEVER GIVE UP |
 PYTHON > OTHERS
 
 Vulgo: @o_californiaa
