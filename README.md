@@ -1,5 +1,4 @@
-NEVER GIVE UP |
-PYTHON > OTHERS
+NEVER GIVE UP
 
 @o_californiaa
 <!---
