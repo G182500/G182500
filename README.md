@@ -1,10 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
-
----
-
-## Sobre mim
-
 > Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estadual de Campinas, e atuando na área desde 2022 como desenvolvedor full stack.
+
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
 
 ---
 
@@ -12,13 +8,12 @@
 
 ### eCRF — Plataforma de Pesquisa Clínica
 
-> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos (formulários, visitas, randomização, dispensação, queries e relatórios), substituindo o fluxo tradicional em papel.
+> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos com formulários, visitas e relatórios.
 
 | Área | Tecnologia | Impacto |
 | --- | --- | --- |
-| **Backend** | NestJS, Drizzle ORM, PostgreSQL multi-schema, Zod | API por domínio com isolamento por tenant |
-| **Frontend** | Next.js, React, TanStack Query, React Hook Form, Tailwind | Form builder dinâmico + telas de coleta |
-| **Qualidade** | TypeScript strict, Jest, Playwright (E2E + BDD) | Tipos compartilhados front/back via contract |
+| **Backend** | NestJS, Drizzle ORM, PostgreSQL, Zod | API por domínio com isolamento por tenant |
+| **Frontend** | Next.js, React Hook Form, Tailwind | Form builder dinâmico + telas de coleta |
 | **Infra** | Docker, Turborepo, pnpm workspaces, GitHub Actions | Monorepo com CI multi-stage |
 
 #### Contribuição em destaque: Versionamento de estudo
