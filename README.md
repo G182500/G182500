@@ -83,7 +83,7 @@ Angular           █████████░░░░░░░░░░░�
 
 ## `workflow`
 
-Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
+Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)**:
 
 - **Especificação antes do código** — descrevo modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões. O versionamento de estudos do eCRF nasceu desse fluxo.
 - **Memória persistente entre sessões** — sistema de memória local que guarda decisões, feedback e contexto de projeto, evitando re-explicar tudo a cada conversa.
