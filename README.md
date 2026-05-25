@@ -94,46 +94,42 @@ Angular           █████████░░░░░░░░░░░�
 
 ## `$ experience`
 
-<table>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/fev_2026_—_presente-22C55E?style=for-the-badge" alt="período"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/ATUAL-22C55E?style=for-the-badge&logoColor=white" alt="atual"/>
-    </td>
-    <td valign="middle">
-      <h3>Full Stack Developer Pleno</h3>
-      <img src="https://img.shields.io/badge/Synvia-0EA5E9?style=for-the-badge&logoColor=white" alt="Synvia"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/abr_2024_—_fev_2026-64748B?style=for-the-badge" alt="período"/>
-    </td>
-    <td valign="middle">
-      <h3>Full Stack Developer Jr.</h3>
-      <img src="https://img.shields.io/badge/Synvia-0EA5E9?style=for-the-badge&logoColor=white" alt="Synvia"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/set_2022_—_abr_2024-64748B?style=for-the-badge" alt="período"/>
-    </td>
-    <td valign="middle">
-      <h3>Estágio em T.I.</h3>
-      <img src="https://img.shields.io/badge/Synvia-0EA5E9?style=for-the-badge&logoColor=white" alt="Synvia"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/set_2020_—_dez_2020-64748B?style=for-the-badge" alt="período"/>
-    </td>
-    <td valign="middle">
-      <h3>Programação para Crianças e Adolescentes</h3>
-      <img src="https://img.shields.io/badge/Ctrl+Play-FF6B35?style=for-the-badge&logoColor=white" alt="Ctrl+Play"/>
-    </td>
-  </tr>
-</table>
+> Trajetória contínua na **Synvia** desde 2022 — estágio → Jr. → Pleno, sem trocar de empresa.
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'background': '#0d1117',
+    'primaryColor': '#22C55E',
+    'primaryBorderColor': '#16A34A',
+    'primaryTextColor': '#ffffff',
+    'lineColor': '#22C55E',
+    'sectionBkgColor': '#0d1117',
+    'altSectionBkgColor': '#161b22',
+    'taskBkgColor': '#22C55E',
+    'taskBorderColor': '#16A34A',
+    'taskTextColor': '#ffffff',
+    'taskTextOutsideColor': '#ffffff',
+    'taskTextDarkColor': '#ffffff',
+    'doneTaskBkgColor': '#16A34A',
+    'doneTaskBorderColor': '#15803D',
+    'activeTaskBkgColor': '#22C55E',
+    'activeTaskBorderColor': '#16A34A',
+    'gridColor': '#30363d',
+    'titleColor': '#ffffff'
+  }
+}}%%
+gantt
+    title $ experience · Synvia
+    dateFormat YYYY-MM
+    axisFormat %b/%y
+
+    section Synvia
+    Estágio em T.I.              :done,    2022-09, 2024-04
+    Full Stack Developer Jr.     :done,    2024-04, 2026-02
+    Full Stack Developer Pleno   :active,  2026-02, 2026-08
+```
 
 <br/>
 
