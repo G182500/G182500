@@ -14,7 +14,7 @@
 
 | Cargo | Empresa | Período |
 | --- | --- | --- |
-| **Full Stack Developer II** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/fev%202026%20%E2%80%94%20presente-22C55E?style=flat-square) |
+| **Full Stack Developer Pleno** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/fev%202026%20%E2%80%94%20presente-22C55E?style=flat-square) |
 | **Full Stack Developer Jr.** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/abr%202024%20%E2%80%94%20fev%202026-64748B?style=flat-square) |
 | **Estágio em T.I.** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/set%202022%20%E2%80%94%20abr%202024-64748B?style=flat-square) |
 | **Programação para Crianças e Adolescentes** | ![Ctrl+Play](https://img.shields.io/badge/Ctrl%2BPlay-FF6B35?style=flat-square) | ![period](https://img.shields.io/badge/set%202020%20%E2%80%94%20dez%202020-64748B?style=flat-square) |
