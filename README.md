@@ -96,40 +96,9 @@ Angular           █████████░░░░░░░░░░░�
 
 > Trajetória contínua na **Synvia** desde 2022 — estágio → Jr. → Pleno, sem trocar de empresa.
 
-```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'background': '#0d1117',
-    'primaryColor': '#22C55E',
-    'primaryBorderColor': '#16A34A',
-    'primaryTextColor': '#ffffff',
-    'lineColor': '#22C55E',
-    'sectionBkgColor': '#0d1117',
-    'altSectionBkgColor': '#161b22',
-    'taskBkgColor': '#22C55E',
-    'taskBorderColor': '#16A34A',
-    'taskTextColor': '#ffffff',
-    'taskTextOutsideColor': '#ffffff',
-    'taskTextDarkColor': '#ffffff',
-    'doneTaskBkgColor': '#16A34A',
-    'doneTaskBorderColor': '#15803D',
-    'activeTaskBkgColor': '#22C55E',
-    'activeTaskBorderColor': '#16A34A',
-    'gridColor': '#30363d',
-    'titleColor': '#ffffff'
-  }
-}}%%
-gantt
-    title $ experience · Synvia
-    dateFormat YYYY-MM
-    axisFormat %b/%y
-
-    section Synvia
-    Estágio em T.I.              :done,    2022-09, 2024-04
-    Full Stack Developer Jr.     :done,    2024-04, 2026-02
-    Full Stack Developer Pleno   :active,  2026-02, 2026-08
-```
+<p align="center">
+  <img src="./assets/experience.svg" alt="Gráfico de linha verde mostrando trajetória Estágio (set/2022) → Full Stack Jr. (abr/2024) → Full Stack Pleno (fev/2026) na Synvia" width="100%"/>
+</p>
 
 <br/>
 
