@@ -83,7 +83,7 @@ Angular           █████████░░░░░░░░░░░�
 
 ## `workflow`
 
-Desde o início de 2026, utlizo IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
+Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
 
 - **Especificação antes do código** — descrevo modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões. O versionamento de estudos do eCRF nasceu desse fluxo.
 - **Memória persistente entre sessões** — sistema de memória local que guarda decisões, feedback e contexto de projeto, evitando re-explicar tudo a cada conversa.
@@ -97,10 +97,9 @@ Desde o início de 2026, utlizo IA como parte central do meu desenvolvimento, co
   <img src="./assets/experience.svg" alt="Gráfico de linha verde mostrando trajetória Estágio (set/2022) → Full Stack Jr. (abr/2024) → Full Stack Pleno (fev/2026) na Synvia" width="100%"/>
 </p>
 
-**Contribuição em destaque — Versionamento de estudo no sistema eCRF — Plataforma de Pesquisa Clínica.** Estudos clínicos ficam meses (às vezes anos) em coleta, mas formulários, visitas e regras precisam continuar editáveis mesmo depois que participantes começaram a responder. Projetei e implementei o modelo de versionamento que permite editar a estrutura do estudo sem invalidar dados já coletados:
+**Contribuição em destaque — Versionamento de estudos no sistema de Pesquisas Clínicas.** Estudos clínicos ficam meses (às vezes anos) em coleta, o que gera a necessidade de formulários e regras continuarem editáveis mesmo depois que os participantes começaram a responder. Projetei e implementei o modelo de versionamento que permite a edição dessa estrutura, sem invalidar dados já coletados:
 
 - **Histórico íntegro** — cada participante continua respondendo formulários na versão à qual foi alocado, mesmo quando uma nova versão é publicada.
-- **Edição segura em produção** — o pesquisador edita formulários, visitas e regras em um rascunho da próxima versão, sem afetar a coleta em andamento.
-- **Configurações que valem para todas as versões** — alertas automáticos, regras e relatórios continuam funcionando corretamente em qualquer versão.
-- **Mudanças complexas com integridade preservada** — ao editar um item, suas dependências (campos, condições, listas de opções) são propagadas automaticamente para o rascunho.
-- **Padronização de respostas no longo prazo** — opções publicadas em listas de seleção ficam imutáveis (com possibilidade de desativar, em vez de remover), garantindo que respostas antigas continuem válidas.
+- **Edição segura em produção** — o pesquisador edita formulários e regras em um rascunho da próxima versão, sem afetar a coleta em andamento.
+- **Configurações que valem para todas as versões** — alertas, regras e relatórios continuam funcionando corretamente em todas as versões.
+- **Mudanças complexas com integridade preservada** — ao editar um item, suas dependências são propagadas em cascata automaticamente para o rascunho.
