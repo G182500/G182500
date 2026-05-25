@@ -1,8 +1,6 @@
 <div align="center">
 
-**Full Stack Developer · Synvia**
-
-Construindo sistemas de pesquisa clínica com TypeScript, NestJS e Next.js.
+**Full Stack Developer · Pleno**
 
 <br/>
 
