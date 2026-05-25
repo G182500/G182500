@@ -1,7 +1,5 @@
 <div align="center">
 
-# Gabriel Santos Bueno
-
 **Full Stack Developer · Synvia**
 
 Construindo sistemas de pesquisa clínica com TypeScript, NestJS e Next.js.
@@ -10,7 +8,6 @@ Construindo sistemas de pesquisa clínica com TypeScript, NestJS e Next.js.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/G182500)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code%20·%20~47%20sess%2Fsem-D97757?style=flat-square&logo=claude&logoColor=white)](#-workflow)
 
 </div>
 
