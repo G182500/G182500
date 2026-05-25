@@ -1,6 +1,57 @@
-> Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estadual de Campinas, e atuando na área desde 2022 como desenvolvedor full stack.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Database;TypeScript+%7C+NestJS+%7C+Next.js+%7C+React;Construindo+sistemas+de+pesquisa+cl%C3%ADnica)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
+
+---
+
+## Sobre mim
+
+> Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estadual de Campinas, e atuando na área desde 2022 como desenvolvedor full stack.
+
+<br/>
+
+### Experiência
+
+<div align="center">
+
+| Cargo | Empresa | Período |
+| --- | --- | --- |
+| **Full Stack Developer II** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/fev%202026%20%E2%80%94%20presente-22C55E?style=flat-square) |
+| **Full Stack Developer Jr.** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/abr%202024%20%E2%80%94%20fev%202026-64748B?style=flat-square) |
+| **Estágio em T.I.** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/set%202022%20%E2%80%94%20abr%202024-64748B?style=flat-square) |
+| **Programação para Crianças e Adolescentes** | ![Ctrl+Play](https://img.shields.io/badge/Ctrl%2BPlay-FF6B35?style=flat-square) | ![period](https://img.shields.io/badge/set%202020%20%E2%80%94%20dez%202020-64748B?style=flat-square) |
+
+</div>
+
+<br/>
+
+### Educação
+
+<div align="center">
+
+| Curso | Instituição | Período |
+| --- | --- | --- |
+| **Análise e Desenvolvimento de Sistemas** | ![UNICAMP](https://img.shields.io/badge/UNICAMP-0F2C59?style=flat-square) | ![period](https://img.shields.io/badge/2022%20%E2%80%94%202025-64748B?style=flat-square) |
+| **Tecnólogo em T.I.** | ![CEMEP](https://img.shields.io/badge/CEMEP-374151?style=flat-square) | ![period](https://img.shields.io/badge/2017%20%E2%80%94%202019-64748B?style=flat-square) |
+
+</div>
+
+<br/>
+
+### Cursos
+
+<div align="center">
+
+| Curso | Instituição | Carga | Ano |
+| --- | --- | --- | --- |
+| **Masterclass I.A.** | ![Rocketseat](https://img.shields.io/badge/Rocketseat-8257E6?style=flat-square) | ![carga](https://img.shields.io/badge/6h-7C3AED?style=flat-square) | 2025 |
+| **Curso de Python** | ![MIT Brazil](https://img.shields.io/badge/MIT%20Brazil-A31F34?style=flat-square) | ![carga](https://img.shields.io/badge/40h-7C3AED?style=flat-square) | 2021 |
+
+</div>
+
+<br/>
 
 ---
 
@@ -8,12 +59,13 @@
 
 ### eCRF — Plataforma de Pesquisa Clínica
 
-> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos com formulários, visitas e relatórios.
+> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos (formulários, visitas, randomização, dispensação, queries e relatórios), substituindo o fluxo tradicional em papel.
 
 | Área | Tecnologia | Impacto |
 | --- | --- | --- |
-| **Backend** | NestJS, Drizzle ORM, PostgreSQL, Zod | API por domínio com isolamento por tenant |
-| **Frontend** | Next.js, React Hook Form, Tailwind | Form builder dinâmico + telas de coleta |
+| **Backend** | NestJS, Drizzle ORM, PostgreSQL multi-schema, Zod | API por domínio com isolamento por tenant |
+| **Frontend** | Next.js, React, TanStack Query, React Hook Form, Tailwind | Form builder dinâmico + telas de coleta |
+| **Qualidade** | TypeScript strict, Jest, Playwright (E2E + BDD) | Tipos compartilhados front/back via contract |
 | **Infra** | Docker, Turborepo, pnpm workspaces, GitHub Actions | Monorepo com CI multi-stage |
 
 #### Contribuição em destaque: Versionamento de estudo
