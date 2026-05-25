@@ -1,6 +1,18 @@
 Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor Full Stack desde 2022.
 
-<br/>
+## `skills`
+
+```
+TypeScript        ████████████████████░░░░   85%   Principal linguagem
+NestJS            ████████████████████░░░░   80%   Backend
+Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
+PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
+Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
+Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
+Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
+Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
+Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
+```
 
 ## `stack`
 
@@ -69,27 +81,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como
   </tr>
 </table>
 
-<br/>
-
-## `skills`
-
-```
-TypeScript        ████████████████████░░░░   85%   Principal linguagem
-NestJS            ████████████████████░░░░   80%   Backend
-Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
-PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
-Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
-Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
-Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
-Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
-Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
-```
-
-<br/>
-
 ## `Experiência`
-
-> Trajetória contínua na **Synvia** desde 2022 — estágio → Jr. → Pleno, sem trocar de empresa.
 
 <p align="center">
   <img src="./assets/experience.svg" alt="Gráfico de linha verde mostrando trajetória Estágio (set/2022) → Full Stack Jr. (abr/2024) → Full Stack Pleno (fev/2026) na Synvia" width="100%"/>
@@ -97,7 +89,7 @@ Angular           █████████░░░░░░░░░░░�
 
 ### eCRF — Plataforma de Pesquisa Clínica
 
-> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos (formulários, visitas, randomização, dispensação, queries e relatórios), substituindo o fluxo tradicional em papel.
+> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos.
 
 <table>
   <tr>
@@ -120,17 +112,17 @@ Angular           █████████░░░░░░░░░░░�
 
 **Contribuição em destaque — Versionamento de estudo.** Estudos clínicos ficam meses (às vezes anos) em coleta, mas formulários, visitas e regras precisam continuar editáveis mesmo depois que participantes começaram a responder. Projetei e implementei o modelo de versionamento que permite editar a estrutura do estudo sem invalidar dados já coletados:
 
-- **Histórico íntegro** — cada participante continua respondendo na versão à qual foi alocado, mesmo quando uma nova versão é publicada.
+- **Histórico íntegro** — cada participante continua respondendo formulários na versão à qual foi alocado, mesmo quando uma nova versão é publicada.
 - **Edição segura em produção** — o pesquisador edita formulários, visitas e regras em um rascunho da próxima versão, sem afetar a coleta em andamento.
-- **Configurações que valem para todas as versões** — alertas automáticos, regras de randomização, dispensação e relatórios continuam funcionando corretamente em qualquer versão do estudo.
+- **Configurações que valem para todas as versões** — alertas automáticos, regras e relatórios continuam funcionando corretamente em qualquer versão.
 - **Mudanças complexas com integridade preservada** — ao editar um item, suas dependências (campos, condições, listas de opções) são propagadas automaticamente para o rascunho.
 - **Padronização de respostas no longo prazo** — opções publicadas em listas de seleção ficam imutáveis (com possibilidade de desativar, em vez de remover), garantindo que respostas antigas continuem válidas.
 
 <br/>
 
-## `Workflow`
+## `Fluxo de trabalho`
 
-Uso IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
+Desde o início de 2026, utlizo IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
 
 - **Especificação antes do código** — descrevo modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões. O versionamento de estudos do eCRF nasceu desse fluxo.
 - **Memória persistente entre sessões** — sistema de memória local que guarda decisões, feedback e contexto de projeto, evitando re-explicar tudo a cada conversa.
