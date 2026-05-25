@@ -91,25 +91,6 @@ Angular           █████████░░░░░░░░░░░�
 
 > Sistema multi-tenant para captura eletrônica de dados de estudos clínicos.
 
-<table>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td>NestJS · Drizzle ORM · PostgreSQL multi-schema · Zod</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td>Next.js · React · TanStack Query · React Hook Form · Tailwind</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Quality</b></td>
-    <td>TypeScript strict · Jest · Playwright (E2E + BDD)</td>
-  </tr>
-  <tr>
-    <td align="right"><b>Infra</b></td>
-    <td>Docker · Turborepo · pnpm workspaces · GitHub Actions</td>
-  </tr>
-</table>
-
 **Contribuição em destaque — Versionamento de estudo.** Estudos clínicos ficam meses (às vezes anos) em coleta, mas formulários, visitas e regras precisam continuar editáveis mesmo depois que participantes começaram a responder. Projetei e implementei o modelo de versionamento que permite editar a estrutura do estudo sem invalidar dados já coletados:
 
 - **Histórico íntegro** — cada participante continua respondendo formulários na versão à qual foi alocado, mesmo quando uma nova versão é publicada.
