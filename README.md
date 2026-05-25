@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Database;TypeScript+%7C+NestJS+%7C+Next.js+%7C+React;Construindo+sistemas+de+pesquisa+cl%C3%ADnica)](https://git.io/typing-svg)
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
 
 ---
