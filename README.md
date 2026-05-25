@@ -1,7 +1,6 @@
-Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor Full Stack desde 2022. Hoje na Synvia, trabalho em sistemas multi-tenant de captura eletrônica de dados clínicos (eCRF), com foco em backend NestJS, frontend Next.js, modelagem de dados versionados em PostgreSQL/Drizzle e integração de IA no fluxo de desenvolvimento (Spec-Driven Development).
+Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor Full Stack desde 2022.
 
 <br/>
-
 
 ## `stack`
 
@@ -88,15 +87,13 @@ Angular           █████████░░░░░░░░░░░�
 
 <br/>
 
+## `Experiência`
+
 > Trajetória contínua na **Synvia** desde 2022 — estágio → Jr. → Pleno, sem trocar de empresa.
 
 <p align="center">
   <img src="./assets/experience.svg" alt="Gráfico de linha verde mostrando trajetória Estágio (set/2022) → Full Stack Jr. (abr/2024) → Full Stack Pleno (fev/2026) na Synvia" width="100%"/>
 </p>
-
-<br/>
-
-## `Experiência`
 
 ### eCRF — Plataforma de Pesquisa Clínica
 
