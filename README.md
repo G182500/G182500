@@ -22,6 +22,22 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como
 
 <br/>
 
+## `$ skills`
+
+```
+TypeScript        ████████████████████░░░░   85%   Principal linguagem
+NestJS            ████████████████████░░░░   80%   Backend
+Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
+PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
+Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
+Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
+Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
+Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
+Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
+```
+
+<br/>
+
 ## `$ stack`
 
 <table>
@@ -235,18 +251,3 @@ Uso IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Deve
 
 > A diferença não é "IA escreve o código" — é usar IA para descrever o problema com clareza suficiente para que a implementação flua sem ambiguidade.
 
-<br/>
-
-## `$ skills`
-
-```
-TypeScript        ████████████████████░░░░   85%   Principal linguagem
-NestJS            ████████████████████░░░░   80%   Backend
-Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
-PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
-Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
-Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
-Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
-Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
-Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
-```
