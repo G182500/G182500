@@ -2,8 +2,8 @@
 
 ```
 TypeScript        ████████████████████░░░░   85%   Principal linguagem
-NestJS            ████████████████████░░░░   80%   Backend (eCRF, workout-api)
-Next.js / React   ███████████████░░░░░░░░░   75%   Frontend (eCRF)
+NestJS            ████████████████████░░░░   80%   Backend
+Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
 PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
 Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
 Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
