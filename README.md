@@ -1,4 +1,243 @@
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
+<div align="center">
+
+# Gabriel Santos Bueno
+
+**Full Stack Developer · Synvia**
+
+Construindo sistemas de pesquisa clínica com TypeScript, NestJS e Next.js.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/G182500)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code%20·%20~47%20sess%2Fsem-D97757?style=flat-square&logo=claude&logoColor=white)](#-workflow)
+
+</div>
+
+<br/>
+
+## `$ whoami`
+
+Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor full stack desde 2022. Hoje na Synvia, trabalho em sistemas multi-tenant de captura eletrônica de dados clínicos (eCRF), com foco em backend NestJS, frontend Next.js, modelagem de dados versionados em PostgreSQL/Drizzle e integração de IA no fluxo de desenvolvimento (Spec-Driven Development).
+
+<br/>
+
+## `$ stack`
+
+<table>
+  <tr>
+    <td align="right" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="RHF"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Quality</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
+      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions"/>
+      <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo"/>
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `$ experience`
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/fev_2026_—_presente-22C55E?style=for-the-badge" alt="período"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ATUAL-22C55E?style=for-the-badge&logoColor=white" alt="atual"/>
+    </td>
+    <td valign="middle">
+      <h3>Full Stack Developer Pleno</h3>
+      <img src="https://img.shields.io/badge/Synvia-0EA5E9?style=for-the-badge&logoColor=white" alt="Synvia"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/abr_2024_—_fev_2026-64748B?style=for-the-badge" alt="período"/>
+    </td>
+    <td valign="middle">
+      <h3>Full Stack Developer Jr.</h3>
+      <img src="https://img.shields.io/badge/Synvia-0EA5E9?style=for-the-badge&logoColor=white" alt="Synvia"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/set_2022_—_abr_2024-64748B?style=for-the-badge" alt="período"/>
+    </td>
+    <td valign="middle">
+      <h3>Estágio em T.I.</h3>
+      <img src="https://img.shields.io/badge/Synvia-0EA5E9?style=for-the-badge&logoColor=white" alt="Synvia"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/set_2020_—_dez_2020-64748B?style=for-the-badge" alt="período"/>
+    </td>
+    <td valign="middle">
+      <h3>Programação para Crianças e Adolescentes</h3>
+      <img src="https://img.shields.io/badge/Ctrl+Play-FF6B35?style=for-the-badge&logoColor=white" alt="Ctrl+Play"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `$ education`
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/2022_—_2025-64748B?style=for-the-badge" alt="período"/>
+    </td>
+    <td valign="middle">
+      <h3>Análise e Desenvolvimento de Sistemas</h3>
+      <img src="https://img.shields.io/badge/UNICAMP-0F2C59?style=for-the-badge&logoColor=white" alt="UNICAMP"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/2017_—_2019-64748B?style=for-the-badge" alt="período"/>
+    </td>
+    <td valign="middle">
+      <h3>Tecnólogo em T.I.</h3>
+      <img src="https://img.shields.io/badge/CEMEP-374151?style=for-the-badge&logoColor=white" alt="CEMEP"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `$ courses`
+
+<table>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/2025-1F2937?style=for-the-badge" alt="ano"/>
+    </td>
+    <td valign="middle">
+      <h3>Masterclass I.A.</h3>
+      <img src="https://img.shields.io/badge/Rocketseat-8257E6?style=for-the-badge&logoColor=white" alt="Rocketseat"/>
+      <img src="https://img.shields.io/badge/carga_6h-374151?style=for-the-badge&logoColor=white" alt="carga horária"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="220">
+      <img src="https://img.shields.io/badge/2021-1F2937?style=for-the-badge" alt="ano"/>
+    </td>
+    <td valign="middle">
+      <h3>Curso de Python</h3>
+      <img src="https://img.shields.io/badge/MIT_Brazil-A31F34?style=for-the-badge&logoColor=white" alt="MIT Brazil"/>
+      <img src="https://img.shields.io/badge/carga_40h-374151?style=for-the-badge&logoColor=white" alt="carga horária"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `$ projects`
+
+### eCRF — Plataforma de Pesquisa Clínica
+
+> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos (formulários, visitas, randomização, dispensação, queries e relatórios), substituindo o fluxo tradicional em papel.
+
+<table>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td>NestJS · Drizzle ORM · PostgreSQL multi-schema · Zod</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td>Next.js · React · TanStack Query · React Hook Form · Tailwind</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Quality</b></td>
+    <td>TypeScript strict · Jest · Playwright (E2E + BDD)</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infra</b></td>
+    <td>Docker · Turborepo · pnpm workspaces · GitHub Actions</td>
+  </tr>
+</table>
+
+**Contribuição em destaque — Versionamento de estudo.** Estudos clínicos ficam meses (às vezes anos) em coleta, mas formulários, visitas e regras precisam continuar editáveis mesmo depois que participantes começaram a responder. Projetei e implementei o modelo de versionamento que permite editar a estrutura do estudo sem invalidar dados já coletados:
+
+- **Histórico íntegro** — cada participante continua respondendo na versão à qual foi alocado, mesmo quando uma nova versão é publicada.
+- **Edição segura em produção** — o pesquisador edita formulários, visitas e regras em um rascunho da próxima versão, sem afetar a coleta em andamento.
+- **Configurações que valem para todas as versões** — alertas automáticos, regras de randomização, dispensação e relatórios continuam funcionando corretamente em qualquer versão do estudo.
+- **Mudanças complexas com integridade preservada** — ao editar um item, suas dependências (campos, condições, listas de opções) são propagadas automaticamente para o rascunho.
+- **Padronização de respostas no longo prazo** — opções publicadas em listas de seleção ficam imutáveis (com possibilidade de desativar, em vez de remover), garantindo que respostas antigas continuem válidas.
+
+<br/>
+
+## `$ workflow`
+
+Uso IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
+
+- **Especificação antes do código** — descrevo modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões. O versionamento de estudos do eCRF nasceu desse fluxo.
+- **Memória persistente entre sessões** — sistema de memória local que guarda decisões, feedback e contexto de projeto, evitando re-explicar tudo a cada conversa.
+- **Pipeline de testes assistida** — uso agentes para explorar a issue, gerar cenários BDD em `.feature`, gerar testes E2E em Playwright e iterar até passarem.
+- **Revisão multi-agente** — PRs passam por revisão automática com agentes especialistas (NestJS, React, segurança) antes da revisão humana.
+- **Planejamento e brainstorming** — IA como parceiro de design, explorando trade-offs e validando premissas antes de tocar código.
+
+> A diferença não é "IA escreve o código" — é usar IA para descrever o problema com clareza suficiente para que a implementação flua sem ambiguidade.
+
+<br/>
+
+## `$ skills`
 
 ```
 TypeScript        ████████████████████░░░░   85%   Principal linguagem
@@ -11,130 +250,3 @@ Jest / Playwright ██████████████░░░░░░�
 Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
 Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
 ```
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-
-### IA / Assistente
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-### Experiência
-
-<div align="center">
-
-| Cargo | Empresa | Período |
-| --- | --- | --- |
-| **Full Stack Developer Pleno** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/fev%202026%20%E2%80%94%20presente-22C55E?style=flat-square) |
-| **Full Stack Developer Jr.** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/abr%202024%20%E2%80%94%20fev%202026-64748B?style=flat-square) |
-| **Estágio em T.I.** | ![Synvia](https://img.shields.io/badge/Synvia-0EA5E9?style=flat-square) | ![period](https://img.shields.io/badge/set%202022%20%E2%80%94%20abr%202024-64748B?style=flat-square) |
-| **Programação para Crianças e Adolescentes** | ![Ctrl+Play](https://img.shields.io/badge/Ctrl%2BPlay-FF6B35?style=flat-square) | ![period](https://img.shields.io/badge/set%202020%20%E2%80%94%20dez%202020-64748B?style=flat-square) |
-
-</div>
-
-<br/>
-
-### Educação
-
-<div align="center">
-
-| Curso | Instituição | Período |
-| --- | --- | --- |
-| **Análise e Desenvolvimento de Sistemas** | ![UNICAMP](https://img.shields.io/badge/UNICAMP-0F2C59?style=flat-square) | ![period](https://img.shields.io/badge/2022%20%E2%80%94%202025-64748B?style=flat-square) |
-| **Tecnólogo em T.I.** | ![CEMEP](https://img.shields.io/badge/CEMEP-374151?style=flat-square) | ![period](https://img.shields.io/badge/2017%20%E2%80%94%202019-64748B?style=flat-square) |
-
-</div>
-
-<br/>
-
-### Cursos
-
-<div align="center">
-
-| Curso | Instituição | Carga | Ano |
-| --- | --- | --- | --- |
-| **Masterclass I.A.** | ![Rocketseat](https://img.shields.io/badge/Rocketseat-8257E6?style=flat-square) | ![carga](https://img.shields.io/badge/6h-7C3AED?style=flat-square) | 2025 |
-| **Curso de Python** | ![MIT Brazil](https://img.shields.io/badge/MIT%20Brazil-A31F34?style=flat-square) | ![carga](https://img.shields.io/badge/40h-7C3AED?style=flat-square) | 2021 |
-
-</div>
-
-<br/>
-
----
-
-## Projetos em Destaque
-
-### eCRF — Plataforma de Pesquisa Clínica
-
-> Sistema multi-tenant para captura eletrônica de dados de estudos clínicos (formulários, visitas, randomização, dispensação, queries e relatórios), substituindo o fluxo tradicional em papel.
-
-| Área | Tecnologia | Impacto |
-| --- | --- | --- |
-| **Backend** | NestJS, Drizzle ORM, PostgreSQL multi-schema, Zod | API por domínio com isolamento por tenant |
-| **Frontend** | Next.js, React, TanStack Query, React Hook Form, Tailwind | Form builder dinâmico + telas de coleta |
-| **Qualidade** | TypeScript strict, Jest, Playwright (E2E + BDD) | Tipos compartilhados front/back via contract |
-| **Infra** | Docker, Turborepo, pnpm workspaces, GitHub Actions | Monorepo com CI multi-stage |
-
-#### Contribuição em destaque: Versionamento de estudo
-
-Estudos clínicos ficam meses — às vezes anos — em coleta, mas formulários, visitas e regras precisam continuar editáveis mesmo depois que participantes começaram a responder. Projetei e implementei o modelo de **versionamento de estudos** que permite editar a estrutura do estudo sem invalidar dados já coletados. Os principais ganhos:
-
-- **Histórico íntegro:** cada participante continua respondendo na versão à qual foi alocado, mesmo quando uma nova versão é publicada.
-- **Edição segura em produção:** o pesquisador edita formulários, visitas e regras em um rascunho da próxima versão, sem afetar a coleta em andamento.
-- **Configurações que valem para todas as versões:** alertas automáticos, regras de randomização, dispensação e relatórios continuam funcionando corretamente em qualquer versão do estudo.
-- **Mudanças complexas com integridade preservada:** ao editar um item, suas dependências (campos, condições, listas de opções) são propagadas automaticamente para o rascunho.
-- **Padronização de respostas no longo prazo:** opções publicadas em listas de seleção ficam imutáveis (com possibilidade de desativar, em vez de remover), garantindo que respostas antigas continuem válidas.
-
-<br/>
-
----
-
-## IA como parte do fluxo de trabalho
-
-Uso IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
-
-- **Especificação antes do código:** descrevo o modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões. O versionamento de estudos do eCRF nasceu desse fluxo.
-- **Memória persistente entre sessões:** mantenho um sistema de memória que guarda decisões, feedback e contexto de projeto, evitando re-explicar tudo a cada conversa.
-- **Pipeline de testes assistida:** uso agentes para explorar a issue, gerar cenários BDD em `.feature`, gerar testes E2E em Playwright e iterar até passarem.
-- **Revisão de código multi-agente:** PRs passam por revisão automática com agentes especialistas (NestJS, React, segurança) antes da revisão humana.
-- **Planejamento e brainstorming:** uso IA como parceiro de design — explorar trade-offs e validar premissas — antes de tocar código, em vez de "pedir o código direto".
-
-A diferença não é "IA escreve o código" — é usar IA para descrever o problema com clareza suficiente para que a implementação flua sem ambiguidade.
-
-<div align="center">
-
-![Claude Code](https://img.shields.io/badge/Claude_Code_%C2%B7_~47_sess%C3%B5es%2Fsemana-D97757?style=for-the-badge&logo=claude&logoColor=white)
-
-</div>
