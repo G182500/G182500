@@ -1,23 +1,13 @@
-<div align="center">
-
-**Full Stack Developer · Pleno**
+Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor full stack desde 2022. Hoje na Synvia, trabalho em sistemas multi-tenant de captura eletrônica de dados clínicos (eCRF), com foco em backend NestJS, frontend Next.js, modelagem de dados versionados em PostgreSQL/Drizzle e integração de IA no fluxo de desenvolvimento (Spec-Driven Development).
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/G182500)
 
-</div>
-
 <br/>
 
-## `$ whoami`
-
-Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor full stack desde 2022. Hoje na Synvia, trabalho em sistemas multi-tenant de captura eletrônica de dados clínicos (eCRF), com foco em backend NestJS, frontend Next.js, modelagem de dados versionados em PostgreSQL/Drizzle e integração de IA no fluxo de desenvolvimento (Spec-Driven Development).
-
-<br/>
-
-## `$ skills`
+## `skills`
 
 ```
 TypeScript        ████████████████████░░░░   85%   Principal linguagem
@@ -33,7 +23,7 @@ Angular           █████████░░░░░░░░░░░�
 
 <br/>
 
-## `$ stack`
+## `stack`
 
 <table>
   <tr>
