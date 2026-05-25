@@ -1,7 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
 
-## Habilidades
-
 ```
 TypeScript        ████████████████████░░░░   85%   Principal linguagem
 NestJS            ████████████████████░░░░   80%   Backend (eCRF, workout-api)
@@ -15,8 +13,6 @@ Angular           █████████░░░░░░░░░░░�
 ```
 
 <div align="center">
-
-### Linguagens
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
