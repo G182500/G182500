@@ -1,5 +1,19 @@
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
 
+## Nível de Habilidade
+
+```
+TypeScript        ████████████████████░░░░   85%   Principal linguagem
+NestJS            ████████████████████░░░░   80%   Backend (eCRF, workout-api)
+Next.js / React   ███████████████░░░░░░░░░   75%   Frontend (eCRF)
+PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
+Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
+Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
+Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
+Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
+Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
+```
+
 ---
 
 ## Sobre mim
@@ -155,21 +169,3 @@ A diferença não é "IA escreve o código" — é usar IA para descrever o prob
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-## Nível de Habilidade
-
-```
-TypeScript        ████████████████████░░░░   85%   Principal linguagem
-NestJS            ████████████████████░░░░   80%   Backend (eCRF, workout-api)
-Next.js / React   ███████████████░░░░░░░░░   75%   Frontend (eCRF)
-PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
-Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
-Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
-Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
-Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
-Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
-```
