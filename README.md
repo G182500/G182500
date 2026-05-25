@@ -16,12 +16,6 @@ Angular           █████████░░░░░░░░░░░�
 
 ---
 
-## Sobre mim
-
-> Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estadual de Campinas, e atuando na área desde 2022 como desenvolvedor full stack.
-
-<br/>
-
 ### Experiência
 
 <div align="center">
