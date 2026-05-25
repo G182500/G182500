@@ -104,4 +104,4 @@ Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento
 - **Configurações que valem para todas as versões** — alertas, regras e relatórios continuam funcionando corretamente em todas as versões.
 - **Mudanças complexas com integridade preservada** — ao editar um item, suas dependências são propagadas em cascata automaticamente para o rascunho.
 
-Devido a alta quantidade de alterações em código, optei desenvolver o versionamento utilizando **SSD** com o **Claude Code** + **Obsidian (app de notas e base de conhecimento)**, transformando o cofre do Obsidian em um "segundo cérebro" ativo. A maior vantagem dessa abordagem, foi mapear e editar em grande escala dos módulos do sistema envolvidos na feature de forma efetiva.
+Devido a alta quantidade de alterações em código, optei desenvolver o versionamento utilizando **SSD** com o **Claude Code** + **Obsidian (app de notas e base de conhecimento)**, transformando o cofre do Obsidian em um "segundo cérebro" ativo. A maior vantagem foi no mapeamento e edição em grande escala nos módulos do sistema envolvidos na feature.
