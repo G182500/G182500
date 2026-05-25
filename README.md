@@ -2,25 +2,6 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-20b4b8197)
-
-<br/>
-
-## `skills`
-
-```
-TypeScript        ████████████████████░░░░   85%   Principal linguagem
-NestJS            ████████████████████░░░░   80%   Backend
-Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
-PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
-Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
-Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
-Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
-Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
-Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
-```
-
-<br/>
 
 ## `stack`
 
@@ -91,7 +72,21 @@ Angular           █████████░░░░░░░░░░░�
 
 <br/>
 
-## `$ experience`
+## `skills`
+
+```
+TypeScript        ████████████████████░░░░   85%   Principal linguagem
+NestJS            ████████████████████░░░░   80%   Backend
+Next.js / React   ███████████████░░░░░░░░░   75%   Frontend
+PostgreSQL        ███████████████░░░░░░░░░   70%   Drizzle + multi-schema
+Drizzle ORM       ███████████████░░░░░░░░░   70%   Schema, migrations, queries
+Git / CI/CD       ██████████████░░░░░░░░░░   70%   Versionamento + GitHub Actions
+Jest / Playwright ██████████████░░░░░░░░░░   65%   Unit + E2E BDD
+Docker            ██████████░░░░░░░░░░░░░░   50%   Containers de dev
+Angular           █████████░░░░░░░░░░░░░░░   45%   Estudo (x-men-frontend)
+```
+
+<br/>
 
 > Trajetória contínua na **Synvia** desde 2022 — estágio → Jr. → Pleno, sem trocar de empresa.
 
@@ -101,59 +96,7 @@ Angular           █████████░░░░░░░░░░░�
 
 <br/>
 
-## `$ education`
-
-<table>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/2022_—_2025-64748B?style=for-the-badge" alt="período"/>
-    </td>
-    <td valign="middle">
-      <h3>Análise e Desenvolvimento de Sistemas</h3>
-      <img src="https://img.shields.io/badge/UNICAMP-0F2C59?style=for-the-badge&logoColor=white" alt="UNICAMP"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/2017_—_2019-64748B?style=for-the-badge" alt="período"/>
-    </td>
-    <td valign="middle">
-      <h3>Tecnólogo em T.I.</h3>
-      <img src="https://img.shields.io/badge/CEMEP-374151?style=for-the-badge&logoColor=white" alt="CEMEP"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## `$ courses`
-
-<table>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/2025-1F2937?style=for-the-badge" alt="ano"/>
-    </td>
-    <td valign="middle">
-      <h3>Masterclass I.A.</h3>
-      <img src="https://img.shields.io/badge/Rocketseat-8257E6?style=for-the-badge&logoColor=white" alt="Rocketseat"/>
-      <img src="https://img.shields.io/badge/carga_6h-374151?style=for-the-badge&logoColor=white" alt="carga horária"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="220">
-      <img src="https://img.shields.io/badge/2021-1F2937?style=for-the-badge" alt="ano"/>
-    </td>
-    <td valign="middle">
-      <h3>Curso de Python</h3>
-      <img src="https://img.shields.io/badge/MIT_Brazil-A31F34?style=for-the-badge&logoColor=white" alt="MIT Brazil"/>
-      <img src="https://img.shields.io/badge/carga_40h-374151?style=for-the-badge&logoColor=white" alt="carga horária"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## `$ projects`
+## `Experiência`
 
 ### eCRF — Plataforma de Pesquisa Clínica
 
@@ -188,7 +131,7 @@ Angular           █████████░░░░░░░░░░░�
 
 <br/>
 
-## `$ workflow`
+## `Workflow`
 
 Uso IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)** — especificar o problema antes de escrever código:
 
@@ -197,6 +140,4 @@ Uso IA como parte central do meu desenvolvimento, com foco em **Spec-Driven Deve
 - **Pipeline de testes assistida** — uso agentes para explorar a issue, gerar cenários BDD em `.feature`, gerar testes E2E em Playwright e iterar até passarem.
 - **Revisão multi-agente** — PRs passam por revisão automática com agentes especialistas (NestJS, React, segurança) antes da revisão humana.
 - **Planejamento e brainstorming** — IA como parceiro de design, explorando trade-offs e validando premissas antes de tocar código.
-
-> A diferença não é "IA escreve o código" — é usar IA para descrever o problema com clareza suficiente para que a implementação flua sem ambiguidade.
 
