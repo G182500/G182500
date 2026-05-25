@@ -1,4 +1,4 @@
-Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando como desenvolvedor Full Stack desde 2022.
+Formado em **Análise e Desenvolvimento de Sistemas** pela UNICAMP, atuando na área de desenvolvimento desde 2022.
 
 ## `skills`
 
