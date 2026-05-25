@@ -85,7 +85,7 @@ Angular           █████████░░░░░░░░░░░�
 
 Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento, com foco em **Spec-Driven Development (SDD)**:
 
-- **Especificação antes do código** — descrevo modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões. O versionamento de estudos do eCRF nasceu desse fluxo.
+- **Especificação antes do código** — descrevo modelo, regras invariantes e casos de borda em uma spec viva (Markdown) antes da implementação. A IA ajuda a refinar a spec, encontrar contradições e usá-la como contrato em revisões.
 - **Memória persistente entre sessões** — sistema de memória local que guarda decisões, feedback e contexto de projeto, evitando re-explicar tudo a cada conversa.
 - **Pipeline de testes assistida** — uso agentes para explorar a issue, gerar cenários BDD em `.feature`, gerar testes E2E em Playwright e iterar até passarem.
 - **Revisão multi-agente** — PRs passam por revisão automática com agentes especialistas (NestJS, React, segurança) antes da revisão humana.
@@ -103,3 +103,5 @@ Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento
 - **Edição segura em produção** — o pesquisador edita formulários e regras em um rascunho da próxima versão, sem afetar a coleta em andamento.
 - **Configurações que valem para todas as versões** — alertas, regras e relatórios continuam funcionando corretamente em todas as versões.
 - **Mudanças complexas com integridade preservada** — ao editar um item, suas dependências são propagadas em cascata automaticamente para o rascunho.
+
+Devido a alta quantidade de alterações em código, optei desenvolver o versionamento utilizando **SSD** com o **Claude Code** + **Obsidian (app de notas e base de conhecimento)**, transformando o cofre do Obsidian em um "segundo cérebro" ativo. A maior vantagem dessa abordagem, foi mapear e editar em grande escala dos módulos do sistema envolvidos na feature de forma efetiva.
