@@ -18,7 +18,7 @@ Angular           █████████░░░░░░░░░░░�
 
 <table>
   <tr>
-    <td align="right" width="140"><b>Languages</b></td>
+    <td align="right" width="140"><b>Linguagens</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -53,7 +53,7 @@ Angular           █████████░░░░░░░░░░░�
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Quality</b></td>
+    <td align="right"><b>Qualidade</b></td>
     <td>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
