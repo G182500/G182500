@@ -93,9 +93,7 @@ Desde o início de 2026, utlizo **IA** como parte central do meu desenvolvimento
 
 ## `carreira`
 
-<p align="center">
-  <img src="./assets/experience.svg" alt="Gráfico de linha verde mostrando trajetória Estágio (set/2022) → Full Stack Jr. (abr/2024) → Full Stack Pleno (fev/2026) na Synvia" width="100%"/>
-</p>
+Estágio (set/2022) na Synvia → Full Stack Jr. (abr/2024) na Synvia → Full Stack Pleno (fev/2026) na Synvia
 
 **Contribuição em destaque — Versionamento de estudos no sistema de Pesquisas Clínicas.** Estudos clínicos ficam meses (às vezes anos) em coleta, o que gera a necessidade de formulários e regras continuarem editáveis mesmo depois que os participantes começaram a responder. Projetei e implementei o modelo de versionamento que permite a edição dessa estrutura, sem invalidar dados já coletados:
 
